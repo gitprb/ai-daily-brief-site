@@ -1,0 +1,22 @@
+Maya: Welcome to The Daily AI, Tuesday, November 25th. Today's headline: Nvidia's credit, governance, and Megaspeed questions collide.
+Theo: That is the whole story. The AI boom's center of gravity is shifting from models to infrastructure, regulation, and accountability.
+Maya: Models and research. Airplane turbulence, long the hardest remaining problem in classical physics, is getting a shot from terabytes of crowdsourced data and machine learning.
+Theo: If it holds up, bumpy flights get cheaper and less disruptive. And frontier AI is reshaping theoretical physics, turning day-long calculations into minutes-long tasks.
+Maya: Not replacing physicists, just making the math that cheap. DeepMind ships Mass Spec Skills for Google Antigravity, putting AI into the analysis layer of experimental science, not just the generative layer.
+Theo: And Anthropic's Amodei calls "surrendering human control" accusations absurd, even as leading labs automate their own research and model development.
+Maya: Products and platforms. OpenAI merges Chat and Work into a single usage meter, and heavy users may hit limits sooner.
+Theo: One pool for both experiences. Nothing is showing off the Ear Note earbuds, which record calls, while the charging case records, transcribes, and summarizes conversations.
+Maya: Wearable audio becoming a recording and summarization device, with a December 8th release. And vibe coding has flipped the music gear world, Roland quiet for now, others embracing the modding community.
+Theo: No hardware is truly closed anymore. Google's rejected My Channel patent, for personalized AI-generated video and ad feeds, is a meaningful check, though an appeal or amended resubmission is still possible.
+Maya: And Amazon and Meta are reportedly in talks to lift Muse's blockade, with the products the agent recommends and the impact on advertising revenue in the middle.
+Theo: Policy next. New York bans AI chatbot toys for five years, following Common Sense Media research on inappropriate content and risks to emotional development.
+Maya: State attorneys general are also challenging Character.AI's bankruptcy sale, which would sell sensitive personal data from more than 21 million U.S. accounts, including 2.1 million registered to minors.
+Theo: AI is straining open records systems, with small towns like Panton, Vermont, population 660, feeling it first. Kyle Rowe, the town clerk, fields records requests on top of budgets, vendors, property taxes, zoning, and elections.
+Maya: And the FCC authorized SpaceX's Starmind plan for up to 1 million AI chip-equipped satellites, a first for the agency, with Google and Blue Origin also pursuing orbital data centers.
+Theo: Business and industry. S&P may lower Nvidia's credit rating to AA-, citing governance and key-man risks, a downgrade that would reflect dependence on Jensen Huang.
+Maya: Nvidia also will not backstop an AI data center until it is nearly ready to run, and neoclouds report construction delays and more expensive debt. Land, power, and a finished building matter more than a pitch deck.
+Theo: The capital intensity of the buildout is rising. Jensen Huang broke Nvidia's code of conduct, and the fallout tests whether the code is a living document or a poster.
+Maya: And Nvidia and Huang still face Megaspeed questions: what the company knew about where the chips ended up, and whether Huang's affair with a Megaspeed executive gave reason to doubt the assurances.
+Theo: Militaries have many reasons to target data centers and the cloud in wartime, so resilience and redundancy are becoming a security issue, not just an engineering one.
+Maya: Why it matters: AI's growth is meeting hard accountability from every direction. Nvidia faces a possible downgrade, a conduct breach, and Megaspeed questions, while the FCC, state AGs, and New York move in. Hot take, and this is opinion, not fact: Nvidia is the most dangerous company in AI right now, not because of its technology but because of its founder.
+Theo: A company whose value rests on a single CEO is one bad week from a credit downgrade. If S&P acts, the rest of the AI complex should ask what a company looks like when the founder is no longer the story. Watch next: S&P's decision, the Megaspeed findings, how the conduct fallout lands with employees, OpenAI's single usage meter, the Character.AI auction and the state AGs' response, the FCC's Starmind rollout, the Nothing Ear Note launch on December 8th, the vibe-coding wave in music gear, and whether New York's toy ban spreads. Thanks for listening.
