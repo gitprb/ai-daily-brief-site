@@ -4,9 +4,13 @@
  * and the tabbed index.html page.
  */
 function initScrollRail() {
-  // Remove any prior rail (e.g. if tabs switched)
+  // Remove any prior rail (e.g. if tabs switched) and disconnect its observer
   const existingRail = document.querySelector(".section-rail");
   if (existingRail) {
+    if (existingRail._observer) {
+      existingRail._observer.disconnect();
+      existingRail._observer = null;
+    }
     existingRail.remove();
   }
 
@@ -92,6 +96,8 @@ function initScrollRail() {
   );
 
   targets.forEach((t) => observer.observe(t.el));
+
+  rail._observer = observer;
 }
 
 document.addEventListener("DOMContentLoaded", () => {
