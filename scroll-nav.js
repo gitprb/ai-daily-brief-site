@@ -1,39 +1,46 @@
 /**
- * Lightweight Section Scrollspy & Floating Rail.
- * Automatically discovers sections (.story, .market-group, aside, etc.)
- * and renders a floating indicator on the right side of the screen.
+ * Section Scrollspy & Floating Rail.
+ * Automatically discovers sections across standalone briefs, market closes,
+ * and the tabbed index.html page.
  */
-document.addEventListener("DOMContentLoaded", () => {
-  // Find navigable sections
-  const targets = [];
-  
-  // Look for sections in briefs or market closes
-  const sections = document.querySelectorAll(
-    "main section.story, main .market-group, main aside.why, main section.watch"
+function initScrollRail() {
+  // Remove any prior rail (e.g. if tabs switched)
+  const existingRail = document.querySelector(".section-rail");
+  if (existingRail) {
+    existingRail.remove();
+  }
+
+  // Find all sections that are currently visible (not in hidden tab panels)
+  const allCandidates = document.querySelectorAll(
+    "section.story, .market-group, aside.why, section.watch"
   );
   
-  sections.forEach((el, index) => {
+  const targets = [];
+  allCandidates.forEach((el, index) => {
+    // Skip if inside a hidden tab panel
+    if (el.closest('.tab-panel[hidden]')) {
+      return;
+    }
+
     let title = "";
-    const h2 = el.querySelector("h2, h3");
-    if (h2) {
-      title = h2.textContent.replace(/^[0-9.]+\s*/, "").trim();
+    const heading = el.querySelector("h2, h3, .market-group-title");
+    if (heading) {
+      title = heading.textContent.replace(/^[0-9.]+\s*/, "").trim();
     } else if (el.classList.contains("why")) {
       title = "Why it matters";
     }
-    
+
     if (!title) return;
-    
-    // Ensure element has an ID
+
     if (!el.id) {
-      el.id = `section-target-${index}`;
+      el.id = `scroll-target-${index}`;
     }
-    
+
     targets.push({ id: el.id, title: title, el: el });
   });
 
-  if (targets.length < 2) return; // Only show if multiple sections exist
+  if (targets.length < 2) return;
 
-  // Create rail container
   const rail = document.createElement("nav");
   rail.className = "section-rail";
   rail.setAttribute("aria-label", "Section navigation");
@@ -65,7 +72,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
   document.body.appendChild(rail);
 
-  // IntersectionObserver for fast, accurate scroll tracking
+  // IntersectionObserver for tracking current section while scrolling
   const observer = new IntersectionObserver(
     (entries) => {
       entries.forEach((entry) => {
@@ -79,10 +86,21 @@ document.addEventListener("DOMContentLoaded", () => {
       });
     },
     {
-      rootMargin: "-20% 0px -60% 0px",
+      rootMargin: "-15% 0px -65% 0px",
       threshold: 0,
     }
   );
 
   targets.forEach((t) => observer.observe(t.el));
+}
+
+document.addEventListener("DOMContentLoaded", () => {
+  initScrollRail();
+
+  // If user switches tabs on index.html, re-initialize the scroll rail for the new tab!
+  document.querySelectorAll(".tabs button").forEach((btn) => {
+    btn.addEventListener("click", () => {
+      setTimeout(initScrollRail, 50);
+    });
+  });
 });
