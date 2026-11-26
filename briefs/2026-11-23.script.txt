@@ -1,0 +1,27 @@
+Maya: Welcome back to The Daily AI. Today's headline: Jensen Huang is back, and the rest of AI is racing on.
+Theo: Back how?
+Maya: After a board reversal, with Trump reportedly involved. Meanwhile Anthropic ships agentic code review, Amazon buys Decart, and states sue SpaceX over Grok.
+Maya: Let's start with models and research. Anthropic launched Claude Ship, an agent that can review, fix, and approve pull requests on its own.
+Theo: That is a big step. Routine engineering judgment moves from humans to agents.
+Maya: DeepMind is pairing agent teams with formal verification to improve quantum algorithms for fusion and chemistry.
+Theo: Automated search plus mathematical proof. Nice, but still an early signal.
+Maya: And Anthropic named AI consciousness as an investor risk factor, which a philosopher quoted in an MIT Technology Review piece is not buying.
+Theo: A live governance gap. What should sentience claims even mean?
+Maya: Moving to products. Google AI Mode taps Drive, Wallet, and the Gemini app for personalized answers.
+Theo: That turns Search into a personal assistant layered over personal files and payments. Privacy stakes just went up.
+Maya: Nothing launched Ear Note, earbuds with a record-and-transcribe case.
+Theo: Everyday speech becoming searchable, summarized data. Alongside Apple Watch transcription and Amazon's Bee wearable.
+Maya: OpenAI and Cisco open-sourced Shirudo, a Linux runtime for protecting systems while patches roll out.
+Theo: A practical operational gap. AI lab plus enterprise network vendor.
+Maya: Now policy. Oregon and Virginia sued SpaceX over Grok porn deepfakes. The Virginia complaint also accuses Musk of willful conduct.
+Theo: State AGs treating AI image generation as consumer protection. Fair enough.
+Maya: Megaspeed, at the center of the Huang scandal, looks headed for a US blacklist, and Jensen Huang is set to testify in the Senate next week.
+Theo: The White House says Trump was totally involved in getting him reinstated. Political pressure overriding governance norms.
+Maya: Business. Amazon is buying Decart's AI optimization tech for $7.5 billion ahead of selling Trainium chips.
+Theo: Software efficiency as much as silicon. Supertake raised $20M to turn predictions into portfolios.
+Maya: AI data centers threw a wrench into COP31 climate talks, and fast-food chains like Burger King and Domino's are scoring and reprimanding workers with AI.
+Maya: Why it matters: AI leadership is now political as well as corporate, while the tech moves from generation to autonomous delivery. Governance, privacy, and power are rising together.
+Theo: Hot take, and this is opinion, not fact: this is not really about Jensen Huang. It is about the most powerful AI company in the world answering to a president, and everyone else happy to watch.
+Maya: A fair point. The real scandal is the unquestioning return of a CEO whose personal conduct nearly ended his tenure.
+Theo: Watch next: Huang's Senate testimony, the Megaspeed blacklist, and the Grok lawsuits will test whether regulators can actually constrain AI.
+Maya: And the scandal will keep dragging on. Thanks for listening.

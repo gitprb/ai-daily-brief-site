@@ -1,0 +1,23 @@
+Maya: Welcome to The Daily AI, Tuesday, November 24th. Today's headline: Huang is back, AI keeps proving itself, and the rules are still catching up.
+Theo: Back with White House backing, and an apology to staff.
+Maya: Let's start with models and research. An AI-assisted proof of the Riemann hypothesis appears to hold up, though what it actually tells us is unclear.
+Theo: Impressive, but interpretation lags behind the proof. The skepticism is the story as much as the result.
+Maya: OpenAI says GPT-6 designs protein structures and sequences, with lab evidence of binding across five targets.
+Theo: Text generation moving to working molecules. If the results hold, protein design starts to look like a general-purpose AI workflow.
+Maya: Anthropic built a honeypot to lure AI agents into misbehaving, and a new benchmark shows even the best agents struggle with everyday life.
+Theo: Lab-grade capability, shaky daily reliability. And Amazon says hackers used AI agents to find and exploit a zero-day with little human input, with the Cairn AI framework a boon for defenders and attackers alike.
+Maya: Dual use, right there. Products and platforms next. Walmart lets customers shop Black Friday deals through Meta's Muse, and Meta is putting Muse directly into Instagram DMs.
+Theo: Agents as the front door to deals, and to personal messaging. Pinterest lets parents limit the AI content their teens see, the New York Times warns photographers not to update Photoshop, and Tidal bans AI-generated music on December 9.
+Maya: Tidal deletes around 29 million songs and rejects an estimated 80,000 to 85,000 tracks a day, according to its music lead.
+Theo: A big cleanup. Policy now. Yale's Jeffrey Sonnenfeld warns the Nvidia return could backfire, with historic personal liability for directors amid lawsuits, and whether the country is celebrating a company that put advanced chips in adversaries' hands.
+Maya: National security experts say Nvidia's size may have outweighed concerns about Huang's ties to a suspected Chinese intelligence asset.
+Theo: The UK cyber agency says AI hacking tools expose years of weak security, so foundations come first. Google broke its big Gmail promise by saying it will use connected data to personalize ads, and Amazon's drone delivery drew an FAA probe after a garage crash.
+Maya: Hundreds of thousands of Prime Air deliveries in 2026, and still the regulator is catching up. Business and industry: Anthropic shares slipped below the IPO price, Maple raised 5.3 million for AI products that protect data even from itself, and a Crusoe investor bets solar and energy storage will power the data centers that will need tens of gigawatts of power every year.
+Theo: And Huang still thinks a succession plan creates unnecessary hierarchy.
+Maya: Right, and in his first all-hands he thanked the White House, apologized to staff, and said he is in therapy, grateful for a second chance.
+Theo: A company that spent the last two weeks finding out what happens without its founder, still choosing not to plan for it.
+Maya: Why it matters: the Huang story is bigger than one person. Can a company of Nvidia's scale resist political and geopolitical pressure, and will the market keep rewarding that? Across the rest of the brief, AI keeps moving from generation to action, from proofs and protein design to agents and autonomous delivery, while markets, regulators, and platforms lag behind.
+Theo: Hot take, and this is opinion, not fact: the real story is not that Huang came back. The most powerful AI company in the world has become a political asset, and everyone involved is calling it a win. The scandal, the lawsuits, and the succession gap are the price of letting a founder answer to a president.
+Maya: Watch next: the Nvidia scandal, with lawsuits and the succession question, will not stay quiet, and Huang's therapy admission adds a personal layer.
+Theo: The Riemann proof and the GPT-6 protein results will draw scrutiny, while Anthropic's slump, the Tidal ban, and Pinterest's parental controls show how markets and platforms respond.
+Maya: And the Gmail break, the UK warning, and the Amazon drone probe will test whether regulators can keep up. Thanks for listening.
