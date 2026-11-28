@@ -555,3 +555,13 @@ main > h2 {
     display: none;
   }
 }
+
+.stale-banner {
+  background: #fff4e5;
+  border: 1px solid #f0c36d;
+  border-radius: 10px;
+  padding: 12px 16px;
+  margin: 0 0 18px 0;
+  font-size: 0.95rem;
+  color: #5c3d00;
+}

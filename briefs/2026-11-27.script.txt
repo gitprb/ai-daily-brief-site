@@ -1,0 +1,31 @@
+Maya: Good morning, and welcome to The Daily AI. I'm Maya, and with me today is Theo.
+Theo: Morning, Maya. Happy to be here.
+Maya: Today's headline is short and punchy. AI's infrastructure is being repriced, and schools are pushing back.
+Theo: That's the whole story in one line. Let's start with Models and Research.
+Maya: Right, and I have to be honest, this section is quiet. No fresh models or research items for today. The light-chip work from Q.ANT gets covered under Business and Industry instead.
+Theo: So the action today is in the business side, the policy side, and how people actually use the stuff.
+Maya: Exactly. In Products and Platforms, Android's DIY widget builder turns vibe-coding into a genuinely useful app. You describe a small need, like real-time bus arrivals, and you get a working widget without code.
+Theo: A small feature, but a bigger signal. AI is moving from chat answers into personal, always-on utilities. The practical test is whether it handles live data reliably, and the review suggests it's closer to fun than a mature platform.
+Maya: That's fair. Now Policy and Regulation, and this one matters a lot. Los Angeles Unified shuts off AI-generated summaries in one of the nation's largest school districts.
+Theo: That's a real institutional moment. The move reflects a growing instinct among public institutions to keep AI out of student-facing workflows until accuracy, bias, and accountability are settled.
+Maya: And it's local, but the implications run national. Districts will have to decide how to adopt these tools, and L.A. is a bellwether.
+Theo: Let's move to Business and Industry, where the biggest story lives. Anthropic's IPO and Nvidia's leadership crisis together reframe the AI funding debate.
+Maya: A follow-up update argues that AI may not be a bubble, but the way it is financed might be.
+Theo: Exactly. The key question is whether capital is following durable revenue or just narrative. And I want to pair that with Q.ANT's light-wave chips.
+Maya: Yes. Q.ANT is using light to perform the toughest calculations in AI, trying to cut the energy cost of running models.
+Theo: If it scales, it could matter for data-center power costs as much as for model performance. Early stage, but it points to a hardware path beyond pure GPU scaling.
+Maya: Then there's retirement planning for an AI bubble that may or may not burst. The piece argues that whether AI stocks recover or not, the steps that protect a retirement account are the same.
+Theo: Boring discipline, not timing calls. And the last one in this section: can potential clients find you using AI?
+Maya: A follow-up on being discoverable to AI-driven search and client-facing tools. Being findable in a model-mediated world is a new kind of marketing problem, and the article offers practical steps rather than a single trick.
+Theo: So let's hit the why-it-matters moment.
+Maya: The AI story today is less about any single model and more about how the industry is financed, governed, and used. L.A. Unified's shutdown shows adoption is still being negotiated in real institutions, while Anthropic and Nvidia force a harder look at the economics. And the retirement and discoverability pieces remind us that AI is now a personal-finance and professional-identity issue, not only a tech one.
+Theo: I want to give you the floor for the hot take.
+Maya: Hot take, and this is my opinion, not a fact from the source. This is not a bubble in the old sense, but it is a financing bubble. The gap between the valuation and hype around AI and the still-thin path to profitability is the real risk.
+Theo: I'm aligned with the spirit of it, but I'll add the macro angle. School districts and investors are both starting to price that gap. The ones who ignore it will be the ones caught when it closes.
+Maya: That's a sharp line. And it's why I like ending with watch next.
+Theo: Watch Anthropic's IPO trajectory and Nvidia's leadership transition as the clearest signals of whether AI economics can hold up under scrutiny.
+Maya: Also watch L.A. Unified and other large districts for follow-on policy moves on AI in schools.
+Theo: And whether light-wave chips and other non-GPU approaches move from prototype to real compute.
+Maya: Finally, watch how professionals and small businesses respond to being findable through AI rather than through traditional search.
+Theo: That's the full picture. Thanks for listening, and we'll see you tomorrow.
+Maya: See you tomorrow.
